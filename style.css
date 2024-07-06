@@ -21,12 +21,6 @@ body {
     color: #F9FAF8;
 }
 
-.hero-title {
-    font-size: 48px;
-    font-weight: bolder;
-    color: #F9FAF8;
-}
-
 a {
     text-decoration: none;
 }
@@ -35,6 +29,17 @@ ul {
     list-style-type: none;
     display: flex;
     gap: 25px;
+}
+
+.bottom-header {
+    display: flex;
+
+}
+
+.hero-title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
 }
 
 .hero-sub, a {
