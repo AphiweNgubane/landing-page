@@ -36,6 +36,11 @@ ul {
 
 }
 
+.hero-text {
+    display: flex;
+    flex-direction: column;
+}
+
 .hero-title {
     font-size: 48px;
     font-weight: bolder;
