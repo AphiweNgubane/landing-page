@@ -33,7 +33,7 @@ ul {
 
 .bottom-header {
     display: flex;
-
+    justify-content: space-between;
 }
 
 .hero-text {
@@ -56,5 +56,9 @@ ul {
 button {
     background: #3882F6;
     color: white;
-
+    width: 130px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
 }
