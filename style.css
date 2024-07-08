@@ -113,11 +113,14 @@ h2 {
 
 .banner {
     background-color: #3882F6;
+    width: fit-content;
+    border-radius: 10px;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 100px
+    gap: 100px;
+    padding: 50px 100px;
 }
 
 .action-title {
