@@ -92,3 +92,21 @@ h2 {
     padding-right: 50%;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    padding: 150px 380px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color:#1F2937;
+}
+
+.author {
+    font-size: 30px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: right;
+}
