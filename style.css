@@ -66,3 +66,17 @@ button {
     font-weight: bold;
     border-radius: 8px;
 }
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
