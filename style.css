@@ -121,7 +121,7 @@ h2 {
     align-items: center;
     justify-content: center;
     gap: 100px;
-    padding: 50px 100px;
+    padding: 50px 150px;
     margin: 120px auto;
 }
 
@@ -132,4 +132,13 @@ h2 {
 
 .action-text {
     font-size: 20px;
+}
+
+.footer {
+    height: 100px;
+    background-color: #1F2937;
+    color:#E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
