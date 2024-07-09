@@ -40,7 +40,6 @@ ul {
 .hero-text {
     display: flex;
     flex-direction: column;
-    min-width: 490px;
 }
 
 .hero-title {
